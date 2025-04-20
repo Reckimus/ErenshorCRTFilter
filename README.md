@@ -2,7 +2,7 @@
 
 Copy the files into your game folder:
 
-CRTFilterPlugin.dll → Erenshor/BepInEx/plugins/
+Erenshor_CrtShader.dll → Erenshor/BepInEx/plugins/
 
 crt_overlay.png       → Erenshor/BepInEx/plugins/
 
